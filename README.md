@@ -8,8 +8,8 @@ Link prediction algorithm based on network structure is widely used in informati
 2.2 calculate resource quota matrix  
 2.3 for a given user, movies are ranked and recommended according to their favorite degree  
 2.4 Algorithm prediction accuracy prediction  
-3 Run Program
-----
+###3 Run Program
+
 Download data set   
 Download the Movielens 1M dataset ml-1m. Zip  
 py 3.x
