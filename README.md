@@ -13,6 +13,7 @@ Link prediction algorithm based on network structure is widely used in informati
 2.4 Algorithm prediction accuracy prediction  
 
 3 Run Program
+----
 
 Download data set   
 Download the Movielens 1M dataset ml-1m. Zip  
